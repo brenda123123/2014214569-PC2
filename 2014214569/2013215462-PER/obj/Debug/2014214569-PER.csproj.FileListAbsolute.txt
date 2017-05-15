@@ -1,0 +1,14 @@
+C:\Users\Victor\Desktop\2013215462\2013215462-PER\bin\Debug\2013215462-PER.dll.config
+C:\Users\Victor\Desktop\2013215462\2013215462-PER\bin\Debug\2013215462-PER.dll
+C:\Users\Victor\Desktop\2013215462\2013215462-PER\bin\Debug\2013215462-PER.pdb
+C:\Users\Victor\Desktop\2013215462\2013215462-PER\bin\Debug\2013215462-ENT.dll
+C:\Users\Victor\Desktop\2013215462\2013215462-PER\bin\Debug\EntityFramework.dll
+C:\Users\Victor\Desktop\2013215462\2013215462-PER\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Victor\Desktop\2013215462\2013215462-PER\bin\Debug\2013215462-ENT.pdb
+C:\Users\Victor\Desktop\2013215462\2013215462-PER\bin\Debug\EntityFramework.xml
+C:\Users\Victor\Desktop\2013215462\2013215462-PER\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Victor\Desktop\2013215462\2013215462-PER\obj\Debug\2014214569-PER.csprojResolveAssemblyReference.cache
+C:\Users\Victor\Desktop\2013215462\2013215462-PER\obj\Debug\_2014214569_PER.Migrations.ADD.resources
+C:\Users\Victor\Desktop\2013215462\2013215462-PER\obj\Debug\2014214569-PER.csproj.GenerateResource.Cache
+C:\Users\Victor\Desktop\2013215462\2013215462-PER\obj\Debug\2013215462-PER.dll
+C:\Users\Victor\Desktop\2013215462\2013215462-PER\obj\Debug\2013215462-PER.pdb
